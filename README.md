@@ -8,5 +8,6 @@ A software that accesses your webcam to predict your facial expression. This app
 4. pandas
 5. opencv
 
+# Model :
 
 
