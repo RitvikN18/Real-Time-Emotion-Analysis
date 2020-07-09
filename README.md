@@ -11,6 +11,6 @@ This application is trained using convolutional neural networks using the 'fer20
 4. pandas
 5. opencv
 
-# Model :
+
 
 
