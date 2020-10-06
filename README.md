@@ -12,7 +12,7 @@ The realtimevideo.py file is a desktop application which performs faster than th
 4. opencv
 
 # Note:
-This file doesn't run on Apple Mac systems, because of their privacy. 
+This file doesn't run on Apple Mac systems, because of their privacy policy for accessing webcam. 
 
 
 
