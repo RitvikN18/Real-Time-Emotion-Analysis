@@ -6,11 +6,10 @@ This application is trained using convolutional neural networks using the 'fer20
 The realtimevideo.py file is a desktop application which performs faster than the web version.
 
 # Dependencies:
-1. tensorflow
-2. keras
-3. numpy
-4. pandas
-5. opencv
+1. python3
+2. tensorflow
+3. keras
+4. opencv
 
 # Note:
 This file doesn't run on Apple Mac systems, because of their privacy. 
