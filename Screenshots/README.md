@@ -1,0 +1,1 @@
+Screenshots demonstrating the application
