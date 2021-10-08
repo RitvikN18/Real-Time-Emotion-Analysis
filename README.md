@@ -20,6 +20,8 @@ This application is build using deep learning models that are trained using conv
 
 # Screenshots
 ![Neutral](https://github.com/RitvikN18/Real-Time-Emotion-Analysis/blob/master/Screenshots/Screenshot%20(160).png)
+![Happy](https://github.com/RitvikN18/Real-Time-Emotion-Analysis/blob/master/Screenshots/Screenshot%20(161).png)
+![Sad](https://github.com/RitvikN18/Real-Time-Emotion-Analysis/blob/master/Screenshots/Screenshot%20(162).png)
 
 # Note:
 This file doesn't run on Apple Mac systems, because of their privacy policy for accessing webcam. 
