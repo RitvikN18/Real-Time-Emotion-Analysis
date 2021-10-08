@@ -18,6 +18,9 @@ This application is build using deep learning models that are trained using conv
 3. keras
 4. opencv
 
+# Screenshots
+![Neutral](https://github.com/RitvikN18/Real-Time-Emotion-Analysis/blob/master/Screenshots/Screenshot%20(160).png)
+
 # Note:
 This file doesn't run on Apple Mac systems, because of their privacy policy for accessing webcam. 
 
